@@ -4,7 +4,9 @@
 
 📝 사용 기술
 front : react + typescript
+
 back : springboot
+
 database : oracle 18c
 
 📝 주요 기능
