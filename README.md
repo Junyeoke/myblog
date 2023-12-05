@@ -3,7 +3,9 @@
 
 # 기술 스택
 Frontend: HTML, CSS, JavaScript, Bootstrap, React
+
 Backend: Springboot
+
 데이터베이스: Oracle DB
 
 # 기능
